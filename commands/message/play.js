@@ -1,5 +1,5 @@
 const { EmbedBuilder } = require('discord.js');
-const shiva = require('../../shiva');
+const shiva = require('..L../shiva');
 
 const COMMAND_SECURITY_TOKEN = shiva.SECURITY_TOKEN;
 
